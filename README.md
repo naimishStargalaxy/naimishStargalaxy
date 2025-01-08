@@ -5,7 +5,7 @@
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="naimishStargalaxy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimishStargalaxy&label=Profile%20views&color=0e75b6&style=flat" alt="naimishStargalaxy" /> </p>
 
 <div style="margin-bottom: 200px;"></div>
 
