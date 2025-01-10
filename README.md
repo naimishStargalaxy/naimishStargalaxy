@@ -1,8 +1,3 @@
-<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
-
-<h2 align="center"><samp>Hi 👋 I'm Naimish</samp></h2>
-<h3 align="center"><samp>A software developer from India</samp> </h3>
-
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
   <!-- Top Languages Stats -->
